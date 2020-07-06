@@ -1,3 +1,7 @@
+//this is a simple banking application that performs certain operations like deposit ,withdrawal ,checking balance.. 
+
+
+
 package bankingapplication;
 import java.util.*;
 
